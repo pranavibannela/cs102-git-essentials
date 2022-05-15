@@ -1,0 +1,5 @@
+ssh-keygen -t RSA (creates public and private key pair)
+git add <file name> (add files to the repository)
+git status (to know the status of the repo)
+git commit -m ""(to commit the changes in repo)
+git push (to push the commited changes to the server repo)
